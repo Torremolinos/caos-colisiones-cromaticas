@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+    background-color: #000;
+    color: #fff;
+    overflow: hidden;
+    height: inherit;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0.5;
+}
