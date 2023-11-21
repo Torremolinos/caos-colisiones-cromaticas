@@ -1,14 +1,12 @@
 # Examen (Caos de Colisiones Cromáticas)
 
-
-
-tengo que incluir estilos, el favicon, 
+<!--tengo que incluir estilos, el favicon, 
 este markdown es nuevo. tres *** asteriscos es cursiva. al principio y final.
-es decir  
+es decir-->  
 
 ***Cursiva en md***
-
-## Introduccion al concepto de modulacion de js en JS.
+ <!--h2-->
+## Introduccion al concepto de modulacion de js en JS. ##
 
 * scripts (esto simula lista desordenada.)
     1. Lista ordenada (ball class.js)
